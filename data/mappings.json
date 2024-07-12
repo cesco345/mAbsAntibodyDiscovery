@@ -1,0 +1,15 @@
+{
+    "7L7D": {
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFS",
+        "experimental_data": 0.85
+    },
+    "7CR5": {
+        "sequence": "DIQMTQSPSSLSASVGDRVTITC",
+        "experimental_data": 0.92
+    },
+    "1YY8": {
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFT",
+        "experimental_data": 0.78
+
+    }
+}

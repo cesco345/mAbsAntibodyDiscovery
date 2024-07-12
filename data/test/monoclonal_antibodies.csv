@@ -1,0 +1,456 @@
+mAb Name,Target,Therapeutic Area,PDB ID
+Adalimumab,TNF-alpha,Immunology (Rheumatoid arthritis, Crohn's disease),1hje
+Infliximab,TNF-alpha,Immunology (Rheumatoid arthritis, Crohn's disease),1n8t
+Etanercept,TNF-alpha,Immunology (Rheumatoid arthritis, Crohn's disease),2gs7
+Rituximab,CD20,Immunology (Non-Hodgkin lymphoma, rheumatoid arthritis),1fvd
+Trastuzumab,HER2,Oncology (Breast cancer),1n8z
+Bevacizumab,VEGF,Oncology (Colorectal cancer, lung cancer),1bj1
+Cetuximab,EGFR,Oncology (Colorectal cancer, head and neck cancer),1yy9
+Panitumumab,EGFR,Oncology (Colorectal cancer),3m0e
+Ustekinumab,IL-12/IL-23,Immunology (Psoriasis, Crohn's disease),4kzv
+Omalizumab,IgE,Immunology (Asthma, chronic urticaria),1ia0
+Palivizumab,RSV F protein,Infectious Diseases (Respiratory syncytial virus),1qgv
+Natalizumab,alpha4-integrin,Immunology (Multiple sclerosis, Crohn's disease),3o8v
+Vedolizumab,alpha4beta7 integrin,Immunology (Ulcerative colitis, Crohn's disease),5lnz
+Alemtuzumab,CD52,Immunology (Chronic lymphocytic leukemia, multiple sclerosis),N/A
+Ofatumumab,CD20,Immunology (Chronic lymphocytic leukemia),3g6x
+Ipilimumab,CTLA-4,Oncology (Melanoma),3osl
+Nivolumab,PD-1,Oncology (Lung cancer, melanoma),5dk3
+Pembrolizumab,PD-1,Oncology (Lung cancer, melanoma),5jxr
+Atezolizumab,PD-L1,Oncology (Urothelial cancer, lung cancer),5x8j
+Avelumab,PD-L1,Oncology (Merkel cell carcinoma, bladder cancer),5w2x
+Durvalumab,PD-L1,Oncology (Lung cancer, bladder cancer),5jgv
+Eculizumab,C5,Hematology (Paroxysmal nocturnal hemoglobinuria),4ll8
+Denosumab,RANKL,Osteoporosis,3w92
+Secukinumab,IL-17A,Immunology (Psoriasis, ankylosing spondylitis),4hr6
+Ixekizumab,IL-17A,Immunology (Psoriasis),4kzz
+Brodalumab,IL-17 receptor,Immunology (Psoriasis),5l6i
+Guselkumab,IL-23,Immunology (Psoriasis),N/A
+Tildrakizumab,IL-23,Immunology (Psoriasis),N/A
+Risankizumab,IL-23,Immunology (Psoriasis),6dkf
+Bimekizumab,IL-17A/F,Immunology (Psoriasis),N/A
+Dupilumab,IL-4R alpha,Immunology (Atopic dermatitis, asthma),5ung
+Mepolizumab,IL-5,Immunology (Eosinophilic asthma),5lkq
+Reslizumab,IL-5,Immunology (Eosinophilic asthma),4n8u
+Benralizumab,IL-5 receptor,Immunology (Eosinophilic asthma),5n6f
+Ocrelizumab,CD20,Immunology (Multiple sclerosis),5v5o
+Golimumab,TNF-alpha,Immunology (Rheumatoid arthritis, ankylosing spondylitis),3tn9
+Certolizumab pegol,TNF-alpha,Immunology (Rheumatoid arthritis, Crohn's disease),3sdy
+Canakinumab,IL-1 beta,Immunology (Cryopyrin-associated periodic syndromes),2n0i
+Evolocumab,PCSK9,Cardiology (Hypercholesterolemia),3g5o
+Alirocumab,PCSK9,Cardiology (Hypercholesterolemia),4uyp
+Belimumab,BAFF,Immunology (Systemic lupus erythematosus),3kml
+Daratumumab,CD38,Oncology (Multiple myeloma),5f1t
+Elotuzumab,SLAMF7,Oncology (Multiple myeloma),4hje
+Brentuximab vedotin,CD30,Oncology (Hodgkin lymphoma, anaplastic large cell lymphoma),4n9m
+Ramucirumab,VEGFR2,Oncology (Gastric cancer, colorectal cancer),4t92
+Pertuzumab,HER2,Oncology (Breast cancer),1s78
+Obinutuzumab,CD20,Immunology (Chronic lymphocytic leukemia),4z00
+Ibritumomab tiuxetan,CD20,Oncology (Non-Hodgkin lymphoma),N/A
+Tositumomab,CD20,Oncology (Non-Hodgkin lymphoma),N/A
+Afelimomab,Tumor Necrosis Factor-alpha,Sepsis,1tnf
+Anatumomab mafenatox,TAG-72,Colorectal cancer,2q8f
+Anrukinzumab,Interleukin-13,Asthma,4j67
+Arcitumomab,Carcinoembryonic Antigen (CEA),Colorectal cancer,1eaj
+Bapineuzumab,Amyloid beta,Alzheimer's disease,3d6e
+Bavituximab,Phosphatidylserine,Oncology,2dpg
+Benralizumab,Interleukin-5 Receptor Subunit Alpha (IL5RA),Eosinophilic Asthma,4x9w
+Bermekimab,Interleukin-1 alpha,Autoinflammatory diseases,4dep
+Bimagrumab,Activin receptor type II,Muscular dystrophy,4jau
+Blosozumab,Sclerostin,Osteoporosis,4a6s
+Brodalumab,IL-17 Receptor A,Psoriasis,5l6i
+Caplacizumab,von Willebrand Factor (vWF),Acquired Thrombotic Thrombocytopenic Purpura,6x9i
+Cixutumumab,Insulin-like Growth Factor 1 Receptor (IGF-1R),Solid tumors,3f5p
+Clazakizumab,Interleukin-6,Rheumatoid arthritis,5v7i
+Crenezumab,Amyloid beta,Alzheimer's disease,5vji
+Dinutuximab,GD2 ganglioside,Neuroblastoma,3v7e
+Dostarlimab,PD-1,Endometrial cancer,6v68
+Duligotumab,IL-33,Asthma,4kcw
+Efalizumab,LFA-1,Psoriasis,1lfa
+Eldelumab,SLAMF7,Multiple myeloma,4h2q
+Enavatuzumab,Delta-like protein 3,Small-cell lung cancer,5imq
+Enfortumab vedotin,Nectin-4,Urothelial carcinoma,6ii8
+Ertumaxomab,HER2/CD3,Gastric cancer,3h0t
+Fasinumab,NGF,Osteoarthritis,3j72
+Fontolizumab,Interferon gamma,Multiple sclerosis,1fg9
+Fresolimumab,TGF-beta,Renal Transplant Rejection,2pjy
+Galcanezumab,CGRP,Migraine,6w1o
+Ganitumab,IGF-1R,Various cancers,3lvp
+Ianalumab,Blood coagulation factor VIII,Hemophilia A,6csq
+Ibritumomab tiuxetan,CD20,Non-Hodgkin lymphoma,1i9w
+Imciromab,GPIIb/IIIa,Thrombosis,1ty3
+Imlifidase,IdeS enzyme,Kidney Transplantation,6t4n
+Inebilizumab,CD19,Neuromyelitis optica spectrum disorder,6bxo
+Inolimomab,CD25,Graft-versus-host disease (GVHD),2erj
+Lebrikizumab,IL-13,Asthma,4j67
+Lemalesomab,TNFSF14,Melanoma,4jio
+Lerdelimumab,TNF-alpha,Crohn's disease,1tnf
+Lorvotuzumab mertansine,CD56,Small cell lung cancer,5jpy
+Mepolizumab,IL-5,Eosinophilic asthma,5lkq
+Moxetumomab pasudotox,CD22,Hairy cell leukemia,3toh
+Natalizumab,Integrin alpha4,Multiple sclerosis,3o8v
+Necitumumab,EGFR,Lung cancer,3njp
+Nimotuzumab,EGFR,Head and neck cancer,3lzf
+Odulimomab,LFA-3,Organ transplant rejection,1l6z
+Otelixizumab,CD3,Type 1 diabetes,3h3v
+Pagibaximab,Botulinum neurotoxin serotype A,Infant botulism,3dvx
+Panitumumab,EGFR,Colorectal cancer,3moe
+Parsatuzumab,HER2,Breast cancer,4hr7
+Pateclizumab,RSV F protein,Respiratory syncytial virus,2xrl
+Ramucirumab,VEGFR2,Gastric cancer,4t92
+Raxibacumab,Protective antigen,Anthrax,3kwv
+Abituzumab,CD33,Acute myeloid leukemia (AML),1t8h
+Actoxumab,C. difficile toxin A,Clostridium difficile infection,5ile
+Afelimomab,Tumor necrosis factor-alpha,Sepsis,1tnf
+Anakinra,IL-1 receptor antagonist,Rheumatoid arthritis,1y2q
+Anrukinzumab,IL-13,Asthma,4j67
+Bapineuzumab,Amyloid beta,Alzheimer's disease,3d6e
+Bavituximab,Phosphatidylserine,Oncology,2dpg
+Benralizumab,IL-5Rα,Eosinophilic asthma,4x9w
+Bevacizumab,VEGF,Various cancers,1bj1
+Bezlotoxumab,C. difficile toxin B,Clostridium difficile infection,5inu
+Bimekizumab,IL-17A/IL-17F,Psoriasis,7euv
+Blinatumomab,CD19/CD3,B-cell acute lymphoblastic leukemia,4n8t
+Bococizumab,PCSK9,Hypercholesterolemia,4yqt
+Brentuximab Vedotin,CD30,Hodgkin lymphoma,4n9m
+Brodalumab,IL-17RA,Psoriasis,5l6i
+Camidanlumab,PD-1,Melanoma,5ggs
+Cantuzumab mertansine,CanAg,Colorectal cancer,1xgt
+Caplacizumab,vWF,Acquired thrombotic thrombocytopenic purpura,6x9i
+Certolizumab pegol,TNF-alpha,Crohn's disease, Rheumatoid arthritis,3sdy
+Cixutumumab,IGF-1 receptor,Solid tumors,3f5p
+Clazakizumab,IL-6,Rheumatoid arthritis,5v7i
+Conatumumab,TRAIL-R2,Various cancers,3i9k
+Crizanlizumab,P-selectin,Vaso-occlusive crisis,5ktk
+Denosumab,RANKL,Osteoporosis,3w92
+Dinutuximab,GD2 ganglioside,Neuroblastoma,3v7e
+Dostarlimab,PD-1,Endometrial cancer,6v68
+Duligotumab,IL-33,Asthma,4kcw
+Eculizumab,Complement C5,Paroxysmal nocturnal hemoglobinuria,4ll8
+Efalizumab,LFA-1,Psoriasis,1lfa
+Eldelumab,SLAMF7,Multiple myeloma,4h2q
+Elotuzumab,SLAMF7,Multiple myeloma,4hje
+Emibetuzumab,ErbB3,Solid tumors,7ce5
+Enavatuzumab,DLL3,Small-cell lung cancer,5imq
+Erenumab,CGRP receptor,Migraine,6bey
+Farletuzumab,Folate receptor 1,Ovarian cancer,2xfj
+Faricimab,Ang-2/VEGF-A,Diabetic macular edema,7vu7
+Fasinumab,NGF,Osteoarthritis,3j72
+Fontolizumab,Interferon gamma,Multiple sclerosis,1fg9
+Galcanezumab,CGRP,Migraine,6w1o
+Ganitumab,IGF-1R,Various cancers,3lvp
+Gemtuzumab ozogamicin,CD33,Acute myeloid leukemia,1qgh
+Abrilumab,IL-13Rα2,Asthma,4grg
+Alicamab,CEA,Colorectal cancer,2qce
+Anrukinzumab,IL-13,Asthma,4j67
+Arcitumomab,Carcinoembryonic antigen (CEA),Colorectal cancer,1eaj
+Bapineuzumab,Amyloid beta,Alzheimer's disease,3d6e
+Bavituximab,Phosphatidylserine,Oncology,2dpg
+Benralizumab,IL-5Rα,Eosinophilic asthma,4x9w
+Bevacizumab,VEGF,Various cancers,1bj1
+Bezlotoxumab,C. difficile toxin B,Clostridium difficile infection,5inu
+Bimekizumab,IL-17A/IL-17F,Psoriasis,7euv
+Bococizumab,PCSK9,Hypercholesterolemia,4yqt
+Brodalumab,IL-17RA,Psoriasis,5l6i
+Camidanlumab,PD-1,Melanoma,5ggs
+Caplacizumab,vWF,Acquired thrombotic thrombocytopenic purpura,6x9i
+Cixutumumab,IGF-1 receptor,Solid tumors,3f5p
+Clazakizumab,IL-6,Rheumatoid arthritis,5v7i
+Conatumumab,TRAIL-R2,Various cancers,3i9k
+Crizanlizumab,P-selectin,Vaso-occlusive crisis,5ktk
+Denosumab,RANKL,Osteoporosis,3w92
+Dinutuximab,GD2 ganglioside,Neuroblastoma,3v7e
+Ecluzimab,Complement C5,Paroxysmal nocturnal hemoglobinuria,4ll8
+Efalizumab,LFA-1,Immunology (Psoriasis),1lfa
+Elotuzumab,SLAMF7,Oncology (Multiple myeloma),4hje
+Enavatuzumab,DLL3,Small-cell lung cancer,5imq
+Ertumaxomab,HER2/CD3,Oncology (Gastric cancer),3h0t
+Fasinumab,NGF,Pain (Osteoarthritis),3j72
+Fontolizumab,Interferon gamma,Multiple sclerosis,1fg9
+Galcanezumab,CGRP,Migraine,6w1o
+Ganitumab,IGF-1R,Oncology (Various cancers),3lvp
+Gemtuzumab ozogamicin,CD33,Oncology (Acute myeloid leukemia),1qgh
+Ianalumab,Blood coagulation factor VIII,Hemophilia A,6csq
+Ibritumomab tiuxetan,CD20,Non-Hodgkin lymphoma,1i9w
+Imciromab,GPIIb/IIIa,Thrombosis,1ty3
+Inebilizumab,CD19,Neuromyelitis optica spectrum disorder,6bxo
+Inotuzumab ozogamicin,CD22,Oncology (Acute lymphoblastic leukemia),3g9w
+Ixekizumab,IL-17A,Psoriasis,4kzz
+Lebrikizumab,IL-13,Asthma,4j67
+Lemalesomab,TNFSF14,Melanoma,4jio
+Lerdelimumab,TNF-alpha,Crohn's disease,1tnf
+Mepolizumab,IL-5,Immunology (Eosinophilic asthma),5lkq
+Mogamulizumab,CCR4,Oncology (Cutaneous T-cell lymphoma),3wip
+Moxetumomab pasudotox,CD22,Hairy cell leukemia,3toh
+Natalizumab,Integrin alpha-4,Multiple Sclerosis, Crohn's Disease,3o8v
+Necitumumab,EGFR,Squamous Non-Small Cell Lung Cancer (NSCLC),3njp
+Nivolumab,Programmed Cell Death Protein 1 (PD-1),Melanoma, Lung Cancer,5wt9
+Ocrelizumab,CD20,Multiple Sclerosis,5v5o
+Odulimomab,Lymphocyte function-associated antigen 3 (LFA-3),Organ Transplant Rejection,1l6z
+Ofatumumab,CD20,Chronic Lymphocytic Leukemia,3g6x
+Omalizumab,IgE,Allergic Asthma, Chronic Idiopathic Urticaria,1iao
+Otelixizumab,CD3,Type 1 Diabetes,3h3v
+Pagibaximab,Botulinum neurotoxin serotype A,Infant Botulism,3dvx
+Panitumumab,Epidermal Growth Factor Receptor (EGFR),Colorectal Cancer,3moe
+Parsatuzumab,HER2,Breast Cancer,4hr7
+Pateclizumab,Respiratory Syncytial Virus Fusion Protein (RSV F),Respiratory Syncytial Virus (RSV),2xrl
+Pembrolizumab,Programmed Cell Death Protein 1 (PD-1),Melanoma, Lung Cancer,5jxr
+Ramucirumab,Vascular Endothelial Growth Factor Receptor 2 (VEGFR2),Gastric Cancer, Non-Small Cell Lung Cancer (NSCLC),4t92
+Raxibacumab,Protective Antigen (PA),Anthrax,3kwv
+Reslizumab,Interleukin 5 (IL5),Eosinophilic Asthma,4n8u
+Risankizumab,Interleukin 23 (IL23),Plaque Psoriasis,6dkf
+Rituximab,CD20,Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia,1fvd
+Actoxumab,C. difficile toxin A,Infectious Diseases,5ile
+Adnectumab,DLL4,Oncology (Solid tumors),5l81
+Afucosylated Anti-B Blood Group IgG,ABO blood group antigen B,Immunology (ABO-incompatible kidney transplantation),5v85
+Alicamab,CEA,Oncology (Colorectal cancer),2qce
+Aselizumab,L-selectin,Immunology (Asthma, psoriasis),1gc5
+Bapineuzumab,Amyloid beta,Neurology (Alzheimer's disease),3d6e
+Belimumab,BAFF,Immunology (Systemic lupus erythematosus),3kml
+Benralizumab,IL-5 receptor alpha subunit,Asthma,5n6f
+Bermekimab,IL-1alpha,Autoinflammatory diseases,4dep
+Bezlotoxumab,C. difficile toxin B,Infectious Diseases (C. difficile infection),5inu
+Bimagrumab,Activin receptor type II,Muscular dystrophy,4jau
+Blosozumab,Sclerostin,Osteoporosis,4a6s
+Brodalumab,IL-17RA,Psoriasis,5l6i
+Camidanlumab,PD-1,Oncology (Melanoma),5ggs
+Certolizumab pegol,TNF-alpha,Crohn's disease, Rheumatoid arthritis,3sdy
+Cixutumumab,IGF-1 receptor,Oncology (Solid tumors),3f5p
+Clazakizumab,IL-6,Rheumatoid arthritis,5v7i
+Conatumumab,TRAIL-R2,Oncology (Various cancers),3i9k
+Crenezumab,Amyloid beta,Alzheimer's disease,5vji
+Denosumab,RANKL,Osteoporosis,3w92
+Dostarlimab,PD-1,Endometrial cancer,6v68
+Duligotumab,IL-33,Asthma,4kcw
+Ecluzimab,Complement C5,Paroxysmal nocturnal hemoglobinuria,4ll8
+Efalizumab,LFA-1,Immunology (Psoriasis),1lfa
+Elotuzumab,SLAMF7,Oncology (Multiple myeloma),4hje
+Emibetuzumab,ErbB3,Oncology (Solid tumors),7ce5
+Enfortumab vedotin,Nectin-4,Urothelial carcinoma,6ii8
+Ertumaxomab,HER2/CD3,Oncology (Gastric cancer),3h0t
+Fasinumab,NGF,Pain (Osteoarthritis),3j72
+Fontolizumab,Interferon gamma,Multiple sclerosis,1fg9
+Galcanezumab,CGRP,Migraine,6w1o
+Ganitumab,IGF-1R,Oncology (Various cancers),3lvp
+Gemtuzumab ozogamicin,CD33,Oncology (Acute myeloid leukemia),1qgh
+Ianalumab,Blood coagulation factor VIII,Hemophilia A,6csq
+Ibritumomab tiuxetan,CD20,Non-Hodgkin lymphoma,1i9w
+Imciromab,GPIIb/IIIa,Thrombosis,1ty3
+Inebilizumab,CD19,Neuromyelitis optica spectrum disorder,6bxo
+Inotuzumab ozogamicin,CD22,Oncology (Acute lymphoblastic leukemia),3g9w
+Ixekizumab,IL-17A,Psoriasis,4kzz
+Lebrikizumab,IL-13,Asthma,4j67
+Lemalesomab,TNFSF14,Melanoma,4jio
+Lerdelimumab,TNF-alpha,Crohn's disease,1tnf
+Mepolizumab,IL-5,Immunology (Eosinophilic asthma),5lkq
+Mogamulizumab,CCR4,Oncology (Cutaneous T-cell lymphoma),3wip
+Moxetumomab pasudotox,CD22,Hairy cell leukemia,3toh
+Natalizumab,Integrin alpha-4,Multiple Sclerosis, Crohn's Disease,3o8v
+Necitumumab,EGFR,Squamous Non-Small Cell Lung Cancer (NSCLC),3njp
+Nivolumab,Programmed Cell Death Protein 1 (PD-1),Melanoma, Lung Cancer,5wt9
+Ocrelizumab,CD20,Multiple Sclerosis,5v5o
+Odulimomab,Lymphocyte function-associated antigen 3 (LFA-3),Organ Transplant Rejection,1l6z
+Ofatumumab,CD20,Chronic Lymphocytic Leukemia,3g6x
+Omalizumab,IgE,Allergic Asthma, Chronic Idiopathic Urticaria,1iao
+Otelixizumab,CD3,Type 1 Diabetes,3h3v
+Pagibaximab,Botulinum neurotoxin serotype A,Infant Botulism,3dvx
+Panitumumab,Epidermal Growth Factor Receptor (EGFR),Colorectal Cancer,3moe
+Parsatuzumab,HER2,Breast Cancer,4hr7
+Pateclizumab,Respiratory Syncytial Virus Fusion Protein (RSV F),Respiratory Syncytial Virus (RSV),2xrl
+Pembrolizumab,Programmed Cell Death Protein 1 (PD-1),Melanoma, Lung Cancer,5jxr
+Ramucirumab,Vascular Endothelial Growth Factor Receptor 2 (VEGFR2),Gastric Cancer, Non-Small Cell Lung Cancer (NSCLC),4t92
+Raxibacumab,Protective Antigen (PA),Anthrax,3kwv
+Reslizumab,Interleukin 5 (IL5),Eosinophilic Asthma,4n8u
+Risankizumab,Interleukin 23 (IL23),Plaque Psoriasis,6dkf
+Rituximab,CD20,Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia,1fvd
+Actoxumab,C. difficile toxin A,Infectious Diseases,5ile
+Adnectumab,DLL4,Oncology (Solid tumors),5l81
+Afucosylated Anti-B Blood Group IgG,ABO blood group antigen B,Immunology (ABO-incompatible kidney transplantation),5v85
+Alicamab,CEA,Oncology (Colorectal cancer),2qce
+Aselizumab,L-selectin,Immunology (Asthma, psoriasis),1gc5
+Bapineuzumab,Amyloid beta,Neurology (Alzheimer's disease),3d6e
+Belimumab,BAFF,Immunology (Systemic lupus erythematosus),3kml
+Benralizumab,IL-5 receptor alpha subunit,Asthma,5n6f
+Bermekimab,IL-1alpha,Autoinflammatory diseases,4dep
+Bezlotoxumab,C. difficile toxin B,Infectious Diseases (C. difficile infection),5inu
+Bimagrumab,Activin receptor type II,Muscular dystrophy,4jau
+Blosozumab,Sclerostin,Osteoporosis,4a6s
+Brodalumab,IL-17RA,Psoriasis,5l6i
+Camidanlumab,PD-1,Oncology (Melanoma),5ggs
+Certolizumab pegol,TNF-alpha,Crohn's disease, Rheumatoid arthritis,3sdy
+Cixutumumab,IGF-1 receptor,Oncology (Solid tumors),3f5p
+Clazakizumab,IL-6,Rheumatoid arthritis,5v7i
+Conatumumab,TRAIL-R2,Oncology (Various cancers),3i9k
+Crenezumab,Amyloid beta,Alzheimer's disease,5vji
+Denosumab,RANKL,Osteoporosis,3w92
+Dostarlimab,PD-1,Endometrial cancer,6v68
+Duligotumab,IL-33,Asthma,4kcw
+Ecluzimab,Complement C5,Paroxysmal nocturnal hemoglobinuria,4ll8
+Efalizumab,LFA-1,Immunology (Psoriasis),1lfa
+Elotuzumab,SLAMF7,Oncology (Multiple myeloma),4hje
+Emibetuzumab,ErbB3,Oncology (Solid tumors),7ce5
+Enfortumab vedotin,Nectin-4,Urothelial carcinoma,6ii8
+Ertumaxomab,HER2/CD3,Oncology (Gastric cancer),3h0t
+Fasinumab,NGF,Pain (Osteoarthritis),3j72
+Fontolizumab,Interferon gamma,Multiple sclerosis,1fg9
+Galcanezumab,CGRP,Migraine,6w1o
+Ganitumab,IGF-1R,Oncology (Various cancers),3lvp
+Gemtuzumab ozogamicin,CD33,Oncology (Acute myeloid leukemia),1qgh
+Ianalumab,Blood coagulation factor VIII,Hemophilia A,6csq
+Ibritumomab tiuxetan,CD20,Non-Hodgkin lymphoma,1i9w
+Imciromab,GPIIb/IIIa,Thrombosis,1ty3
+Inebilizumab,CD19,Neuromyelitis optica spectrum disorder,6bxo
+Inotuzumab ozogamicin,CD22,Oncology (Acute lymphoblastic leukemia),3g9w
+Ixekizumab,IL-17A,Psoriasis,4kzz
+Lebrikizumab,IL-13,Asthma,4j67
+Lemalesomab,TNFSF14,Melanoma,4jio
+Lerdelimumab,TNF-alpha,Crohn's disease,1tnf
+Mepolizumab,IL-5,Immunology (Eosinophilic asthma),5lkq
+Mogamulizumab,CCR4,Oncology (Cutaneous T-cell lymphoma),3wip
+Moxetumomab pasudotox,CD22,Hairy cell leukemia,3toh
+Natalizumab,Integrin alpha-4,Multiple Sclerosis, Crohn's Disease,3o8v
+Necitumumab,EGFR,Squamous Non-Small Cell Lung Cancer (NSCLC),3njp
+Nivolumab,Programmed Cell Death Protein 1 (PD-1),Melanoma, Lung Cancer,5wt9
+Ocrelizumab,CD20,Multiple Sclerosis,5v5o
+Odulimomab,Lymphocyte function-associated antigen 3 (LFA-3),Organ Transplant Rejection,1l6z
+Ofatumumab,CD20,Chronic Lymphocytic Leukemia,3g6x
+Omalizumab,IgE,Allergic Asthma, Chronic Idiopathic Urticaria,1iao
+Otelixizumab,CD3,Type 1 Diabetes,3h3v
+Pagibaximab,Botulinum neurotoxin serotype A,Infant Botulism,3dvx
+Panitumumab,Epidermal Growth Factor Receptor (EGFR),Colorectal Cancer,3moe
+Parsatuzumab,HER2,Breast Cancer,4hr7
+Pateclizumab,Respiratory Syncytial Virus Fusion Protein (RSV F),Respiratory Syncytial Virus (RSV),2xrl
+Pembrolizumab,Programmed Cell Death Protein 1 (PD-1),Melanoma, Lung Cancer,5jxr
+Ramucirumab,Vascular Endothelial Growth Factor Receptor 2 (VEGFR2),Gastric Cancer, Non-Small Cell Lung Cancer (NSCLC),4t92
+Raxibacumab,Protective Antigen (PA),Anthrax,3kwv
+Reslizumab,Interleukin 5 (IL5),Eosinophilic Asthma,4n8u
+Risankizumab,Interleukin 23 (IL23),Plaque Psoriasis,6dkf
+Rituximab,CD20,Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia,1fvd
+Belimumab	BAFF	Systemic lupus erythematosus	3KML
+Benralizumab	IL-5 receptor alpha subunit	Eosinophilic asthma	5N6F
+Bevacizumab	VEGF-A	Colorectal, lung, ovarian, and other cancers	1BJ1
+Bezlotoxumab	C. difficile toxin B	Clostridium difficile infection	5INU
+Bimekizumab	IL-17A/IL-17F	Psoriasis	7EUV
+Brolucizumab	VEGF-A	Age-related macular degeneration (AMD)	6XWO
+Canakinumab	IL-1 beta	Autoinflammatory diseases	2N0I
+Caplacizumab	vWF	Acquired thrombotic thrombocytopenic purpura	6X9I
+Certolizumab pegol	TNF-alpha	Crohn's disease, rheumatoid arthritis	3SDY
+Cixutumumab	IGF-1 receptor	Solid tumors	3F5P
+Clazakizumab	IL-6	Rheumatoid arthritis	5V7I
+Concizumab	Tissue factor pathway inhibitor	Hemophilia	6V61
+Crenezumab	Amyloid beta	Alzheimer's disease	5VJI
+Eculizumab	Complement component 5	Paroxysmal nocturnal hemoglobinuria (PNH)	4LL8
+Efgartigimod	Neonatal Fc receptor (FcRn)	Myasthenia gravis	6RM8
+Eldelumab	SLAMF7	Multiple myeloma	4H2Q
+Emapalumab	IFN-gamma	Primary HLH	5WUU
+Enfortumab vedotin	Nectin-4	Urothelial carcinoma	6II8
+Fasinumab	NGF	Osteoarthritis	3J72
+Faricimab	Ang-2/VEGF-A	Diabetic macular edema, wet AMD	7VU7
+Fontolizumab	IFN-gamma	Multiple sclerosis	1FG9
+Fremanezumab	CGRP	Migraine	6UVS
+Galcanezumab	CGRP	Migraine	6W1O
+Gantenerumab	Amyloid beta	Alzheimer's disease	5WUT
+Gemtuzumab ozogamicin	CD33	Acute myeloid leukemia (AML)	1QGH
+Ianalumab	Factor VIII	Hemophilia A	6CSQ
+Imlifidase	IdeS enzyme	Kidney transplantation	6T4N
+Inebilizumab	CD19	Neuromyelitis optica spectrum disorder	6BXO
+Inotuzumab ozogamicin	CD22	Acute lymphoblastic leukemia	3G9W
+Lebrikizumab	IL-13	Asthma	4J67
+Lemalesomab	TNFSF14	Melanoma	4JIO
+Ligelizumab	IgE Fc	Chronic spontaneous urticaria	6H3L
+Locvotuzumab mertansine	CD56	Small cell lung cancer	5JPY
+Mepolizumab	IL-5	Eosinophilic asthma	5LKQ
+Moxetumomab pasudotox	CD22	Hairy cell leukemia	3TOH
+Natalizumab	Integrin alpha4	Multiple sclerosis	3O8V
+Nimotuzumab	EGFR	Head and neck cancer	3LZF
+Odulimomab	LFA-3	Organ transplant rejection	1L6Z
+Otelixizumab	CD3	Type 1 diabetes	3H3V
+Parsatuzumab	HER2	Breast cancer	4HR7
+Pateclizumab	RSV F protein	Respiratory syncytial virus	2XRL
+Pembrolizumab	PD-1	Melanoma, lung cancer	5JXR
+Polatuzumab vedotin	CD79b	Diffuse large B-cell lymphoma	6TCV
+Ramucirumab	VEGFR2	Gastric cancer	4T92
+Raxibacumab	Protective antigen	Anthrax	3KWV
+Reslizumab	IL-5	Eosinophilic asthma	4N8U
+Risankizumab	IL-23	Plaque psoriasis	6DKF
+Satralizumab	IL-6 receptor	Neuromyelitis optica	6BDI
+Sutimlimab	Complement C1s	Cold agglutinin disease	7N7S
+Abrilumab	IL-13 receptor subunit alpha-2	Asthma	4GRG
+Adalimumab	TNF-alpha	Rheumatoid Arthritis, Crohn's Disease, etc.	1HJE
+Aflibercept	VEGF-A/B/PlGF	Age-Related Macular Degeneration (AMD)	N/A (Complex structure, no single PDB entry)
+ALEMtuzumab	CD52	Chronic Lymphocytic Leukemia	N/A (No structure available)
+Aselizumab	L-selectin	Asthma, Psoriasis	1GC5
+Basiliximab	IL-2 receptor	Kidney Transplant Rejection	1ZLJ
+Belimumab-lupus	sFLT1	Systemic Lupus Erythematosus (SLE)	6V11
+Benralizumab	IL-5 Receptor Alpha	Eosinophilic Asthma	4X9W
+Bevacizumab	VEGF-A	Colorectal, Lung, Ovarian, and other Cancers	1BJ1
+Bimagrumab	Activin receptor type II	Muscular Dystrophy	4JAU
+Blisibimod	BAFF	Systemic Lupus Erythematosus (SLE)	N/A (No structure available)
+Bococizumab	PCSK9	Hypercholesterolemia	4YQT
+Brentuximab Vedotin	CD30	Hodgkin Lymphoma	4N9M
+Briakinumab	IL-12/IL-23	Plaque Psoriasis	4M7D
+Canakinumab	IL-1 beta	Autoinflammatory Diseases	2N0I
+Certolizumab pegol	TNF-alpha	Crohn's Disease, Rheumatoid Arthritis	3SDY
+Cixutumumab	IGF-1 receptor	Solid Tumors	3F5P
+Clazakizumab	IL-6	Rheumatoid Arthritis	5V7I
+Concizumab	Tissue factor pathway inhibitor	Hemophilia	6V61
+Denosumab	RANKL	Osteoporosis	3W92
+Dupilumab	IL-4R alpha	Atopic Dermatitis	5UNG
+Efalizumab	LFA-1	Psoriasis	1LFA
+Eldelumab	SLAMF7	Multiple Myeloma	4H2Q
+Emapalumab	IFN-gamma	Primary HLH	5WUU
+Enfortumab vedotin	Nectin-4	Urothelial Carcinoma	6II8
+Ertumaxomab	HER2/CD3	Gastric Cancer	3H0T
+Evolocumab	PCSK9	Hypercholesterolemia	3G5O
+Fasinumab	NGF	Osteoarthritis	3J72
+Fontolizumab	IFN-gamma	Multiple Sclerosis	1FG9
+Fremanezumab	CGRP	Migraine	6UVS
+Galcanezumab	CGRP	Migraine	6W1O
+Gantenerumab	Amyloid beta	Alzheimer's Disease	5WUT
+Guselkumab	IL-23	Plaque Psoriasis	5VV9
+Ianalumab	Factor VIII	Hemophilia A	6CSQ
+Imlifidase	IdeS enzyme	Kidney Transplantation	6T4N
+Inebilizumab	CD19	Neuromyelitis Optica Spectrum Disorder	6BXO
+Inolimomab	CD25	Graft-versus-Host Disease (GVHD)	2ERJ
+Lebrikizumab	IL-13	Asthma	4J67
+Lemalesomab	TNFSF14	Melanoma	4JIO
+Ligelizumab	IgE Fc	Chronic Spontaneous Urticaria	6H3L
+Locvotuzumab mertansine	CD56	Small Cell Lung Cancer (SCLC)	5JPY
+Mepolizumab	IL-5	Eosinophilic Granulomatosis with Polyangiitis (EGPA)	5LKQ
+Ibalizumab	CD4	HIV Infection	4UT2	Ibalizumab in complex with CD4 D1 domain
+Ixekizumab	IL-17A	Psoriasis	4G6J	Ixekizumab Fab in complex with IL-17A
+Lebrikizumab	IL-13	Asthma	3S43	Lebrikizumab Fab in complex with IL-13
+Leronlimab	CCR5	HIV Infection, Cancer	4MBS	CCR5 structure, target of Leronlimab
+Lifitegrast	LFA-1	Dry Eye Disease	3BQQ	Lifitegrast Fab in complex with LFA-1
+Locustavumab	Ang-2	Age-Related Macular Degeneration (AMD)	6YOW	Locustavumab Fab in complex with Ang-2
+Luspatercept	Activin receptor IIB	Anemia	6L9D	Luspatercept in complex with ActRIIB
+Magrolimab	CD47	Blood Cancers	6OWT	Magrolimab Fab in complex with CD47
+Marstacimab	Tissue Factor	COVID-19	1DAN	Tissue Factor structure, target of Marstacimab
+Maslimomab	OX40L	Cancer Immunotherapy	1ZR4	OX40 structure, related to OX40L
+Mavrilimumab	GM-CSF	Rheumatoid Arthritis	2GMF	GM-CSF structure, target of Mavrilimumab
+Mepolizumab	IL-5	Asthma	3B2K	Mepolizumab Fab in complex with IL-5
+Mogamulizumab	CCR4	Cutaneous T-cell Lymphoma	3QWO	Mogamulizumab Fab in complex with CCR4
+Motavizumab	RSV F protein	Respiratory Syncytial Virus (RSV)	4JHW	Motavizumab Fab in complex with RSV F
+Muromonab-CD3	CD3	Organ Transplant Rejection	1K2S	Muromonab-CD3 Fab in complex with CD3
+Naptumomab estafenatox	5T4	Colorectal Cancer	2AGM	Naptumomab Fab in complex with 5T4
+Natalizumab	α4-Integrin	Multiple Sclerosis	1LFA	Natalizumab Fab in complex with α4β1 integrin
+Necitumumab	EGFR	Squamous Non-Small Cell Lung Cancer	3XDT	Necitumumab Fab in complex with EGFR
+Nemvaleukin alfa	IL-2	Melanoma	1M47	IL-2 structure, target of Nemvaleukin
+Neratinib	HER2	Breast Cancer	3W2S	Neratinib in complex with HER2 kinase
+Nimotuzumab	EGFR	Head and Neck Cancer	1YY9	Nimotuzumab Fab in complex with EGFR
+Nivolumab	PD-1	Various Cancers	5WT9	Nivolumab in complex with PD-1
+Obinutuzumab	CD20	Chronic Lymphocytic Leukemia	3ZVK	Obinutuzumab Fab in complex with CD20
+Ocrelizumab	CD20	Multiple Sclerosis	1HYT	Rituximab (similar to Ocrelizumab) Fab complex with CD20
+Ofatumumab	CD20	Chronic Lymphocytic Leukemia	3G6W	Ofatumumab Fab in complex with CD20
+Olaratumab	PDGFRα	Soft Tissue Sarcoma	1UR8	PDGFRα structure, target of Olaratumab
+Omalizumab	IgE	Asthma, Chronic Spontaneous Urticaria	1F6A	Omalizumab Fab in complex with IgE
+Opicinumab	IL-1β	Rheumatoid Arthritis	1I1B	IL-1β structure, target of Opicinumab
+Oregovomab	CA125	Ovarian Cancer	1PC8	MAb-B43.13 (anti-CA125 antibody) Fab
+Paliperidone palmitate	D2 receptor	Schizophrenia	6CM4	D2 receptor structure, target of Paliperidone
+Panitumumab	EGFR	Colorectal Cancer	1YY8	Panitumumab Fab in complex with EGFR
+Parsatuzumab	HER2	Gastric Cancer	1N8Z	Pertuzumab (similar to Parsatuzumab) Fab in complex with HER2
+Pateclizumab	IL-8	Crohn's Disease	1ILQ	IL-8 structure, target of Pateclizumab
+Pegaptanib	VEGF	Age-Related Macular Degeneration (AMD)	1TZS	Pegaptanib Fab in complex with VEGF
+Pembrolizumab	PD-1	Various Cancers	5J89	Pembrolizumab in complex with PD-1
+Peramivir	Neuraminidase	Influenza	3TI6	Peramivir in complex with neuraminidase
+
